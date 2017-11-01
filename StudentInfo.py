@@ -1,0 +1,6 @@
+name=input("Enter the Student name")
+age=input("enter the age")
+roll_num=input("Enter the roll number")
+student_class=input("Enter the students class")
+university=input("Enter the university name from which student is taking degree")
+print("Student name is" +name+ "age is" +age+ "and student roll number is" +roll_num+ "student class is" +student_class+ "and the university is"+university)
